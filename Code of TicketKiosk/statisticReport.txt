@@ -1,0 +1,10 @@
+Total Ticket Number: 9
+Total Sale of Child Type: 32.0
+Total Sale of Adult Type: 8.0
+Total Sale of Senior Type: 8.0
+Total Sale of Student Type: 0.0
+Total Sale of KONG: SKULL ISLAND: 4.567864612E9
+Total Sale of LOGAN: 0.0
+Total Sale of BEAUTY AND THE BEAST: 0.0
+Total Sale of MOONLIGHT: 0.0
+Total Sale of LA LA LAND: 0.0
